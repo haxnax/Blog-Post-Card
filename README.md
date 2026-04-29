@@ -1,6 +1,7 @@
 # Blog Post Card
-<img width="435" height="579" alt="image" src="https://github.com/user-attachments/assets/417d8341-b801-41bb-a52e-eeaa98216def" />
-
+<p align="center">
+  <img width="435" height="579" alt="image" src="https://github.com/user-attachments/assets/417d8341-b801-41bb-a52e-eeaa98216def" />
+</p>
 A clean, responsive blog post card built with plain HTML and CSS. The page shows a featured image, a short post title, a summary, and a call-to-action button.
 
 ## Preview
