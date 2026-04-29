@@ -3,4 +3,55 @@
 *::after {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif  ;
+
+}
+body{
+  background-color: hsl(219, 29%, 81%);
+}
+.blog-post-card{
+  
+
+  background-color: white;
+  border-radius: 25px;
+  width: 500px;
+    margin: auto;
+  margin-top:8%;
+  text-align: center;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+
+}
+.post-img{
+  max-width: 100%;
+  border-bottom: 5px solid hsl(195, 10%, 31%);
+}
+.post-content{
+padding: 10px;
+}
+
+.post-title{
+  color: rgb(5, 55, 55);
+  margin: 15px;
+  font-size: 2em;
+  
+}
+.post-excerpt{
+  color: rgba(5, 55, 55, 0.946);
+  margin: 6px;
+   font-size: 1.6em;
+}
+.read-more{
+  color: hsl(0, 0%, 100%);
+  text-align: center;
+  background-color: rgb(9, 62, 62);
+  margin: 15px;
+  font-size: 1.6em;
+text-decoration: none;
+  padding: 10px;
+  border-radius: 10px;
+  display: inline-block;
+}
+.read-more:hover{
+  background-color: rgba(9, 62, 62, 0.753);
 }
